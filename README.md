@@ -1,6 +1,6 @@
 # BCAR
 # re-analysis of the BCAR dataset
-[![OSF](https://img.shields.io/badge/DOI-10.17605/osf.io/7J9xe-yellowgreen)](https://osf.io/89mkd/)
+[![OSF](https://img.shields.io/badge/DOI-10.17605/osf.io/89mkd-yellowgreen)](https://osf.io/89mkd/)
 
 This GitHub repository contains the data table and code for analysis for the manscript titled: **Retrospective Exploratory Analysis of Task-Specific Effects on Brain Activity after Stroke.**
 1) **Data:** 1) [li_main.csv](https://github.com/rinivarg/BCAR/blob/main/li_main.csv) & [li_raw.csv](https://github.com/rinivarg/BCAR/blob/main/li_raw.csv)
