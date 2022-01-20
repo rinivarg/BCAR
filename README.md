@@ -11,4 +11,4 @@ This GitHub repository contains the data table and code for analysis for the man
 3) **Analysis code for viewing only:** 
     - To view a marked down version of the analysis code, download and open the html file [here](https://github.com/rinivarg/BCAR/blob/main/BCAR_Codebook.html).
 
-4) **Preprint:** [BCAR Preprint]
+4) **Preprint:** [BCAR Preprint](https://www.medrxiv.org/content/10.1101/2021.08.20.21260371v1)
